@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm Voytek"
+title: "Hey, I'm Voytek."
 draft: false
 weight: 0
 ---
