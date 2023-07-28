@@ -1,0 +1,43 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Voytek Pituła Home Site'
+theme = 'introduction'
+
+[params]
+fadeIn = false                    # Turn on/off the fade-in effect
+
+[[menu.main]]
+name = "Presentations"
+url = "https://w.pitula.me/presentations"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+url = "https://medium.com/@w.pitula"
+weight = 2
+
+[[menu.main]]
+name = "Old Home"
+url = "https://w.pitula.me"
+weight = 3
+
+[[params.social]]
+url = "https://twitter.com/Krever01"
+icon = "twitter" # icon name without the 'fa-'
+icon_pack = "fab"
+[[params.social]]
+url = "https://mas.to/@krever"
+icon = "mastodon" # icon name without the 'fa-'
+icon_pack = "fab"
+[[params.social]]
+url = "https://www.linkedin.com/in/krever/"
+icon = "linkedin" # icon name without the 'fa-'
+icon_pack = "fab"
+[[params.social]]
+url = "https://github.com/Krever"
+icon = "github" # icon name without the 'fa-'
+icon_pack = "fab"
+[[params.social]]
+url = "https://medium.com/@w.pitula"
+icon = "medium" # icon name without the 'fa-'
+icon_pack = "fab"
