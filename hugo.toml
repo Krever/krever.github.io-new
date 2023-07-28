@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://v.pitula.me/'
 languageCode = 'en-us'
 title = 'Voytek Pituła Home Site'
 theme = 'introduction'
